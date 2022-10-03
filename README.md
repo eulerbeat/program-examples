@@ -52,11 +52,15 @@ Regardless of what you may want to add on top of existing Solana programs, the n
    - [x] Transfer SOL
    - [ ] Stake SOL with a Validator
    - [x] Cross-program Invocation
+   
+
 
 ### [ ] Tokens
 
 - [ ] Create an SPL Token
+
 - [ ] Token Metadata
+
 - [ ] Minting Tokens
 - [ ] Mint Authority
 - [ ] Transferring Tokens
@@ -64,6 +68,8 @@ Regardless of what you may want to add on top of existing Solana programs, the n
 - [ ] Controlling Token Supply
 - [ ] Disabling Token Minting
 - [ ] Freezing Token Accounts
+   
+
 
 ### [ ] NFTs
 
@@ -74,3 +80,5 @@ Regardless of what you may want to add on top of existing Solana programs, the n
 - [ ] NFT Collections
 - [ ] NFT Royalties & Features
 - [ ] NFT Utilities
+
+
