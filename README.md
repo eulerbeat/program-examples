@@ -36,6 +36,7 @@ Regardless of what you may want to add on top of existing Solana programs, the n
 - `anchor` - Use `anchor build && anchor deploy` to build & deploy the program. Run `anchor run test` to test it.
 
 :mag: *Got something you want to see here? Add it to the list. Or better yet, write one & create a PR!*
+
 ### [ ] Basics
    - [x] Hello Solana
    - [x] Checking Accounts
@@ -54,21 +55,22 @@ Regardless of what you may want to add on top of existing Solana programs, the n
 
 ### [ ] Tokens
 
-  - [ ] Create an SPL Token
-  - [ ] Token Metadata
-  - [ ] Minting Tokens
-  - [ ] Mint Authority
-  - [ ] Transferring Tokens
-  - [ ] Selling Tokens
-  - [ ] Controlling Token Supply
-  - [ ] Disabling Token Minting
-  - [ ] Freezing Token Accounts
+- [ ] Create an SPL Token
+- [ ] Token Metadata
+- [ ] Minting Tokens
+- [ ] Mint Authority
+- [ ] Transferring Tokens
+- [ ] Selling Tokens
+- [ ] Controlling Token Supply
+- [ ] Disabling Token Minting
+- [ ] Freezing Token Accounts
 
 ### [ ] NFTs
-  - [ ] Create an NFT
-  - [ ] NFT Metadata
-  - [ ] Master Edition NFT
-  - [ ] Other Edition NFT
-  - [ ] NFT Collections
-  - [ ] NFT Royalties & Features
-  - [ ] NFT Utilities
+
+- [ ] Create an NFT
+- [ ] NFT Metadata
+- [ ] Master Edition NFT
+- [ ] Other Edition NFT
+- [ ] NFT Collections
+- [ ] NFT Royalties & Features
+- [ ] NFT Utilities
