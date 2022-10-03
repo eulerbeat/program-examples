@@ -38,6 +38,7 @@ Regardless of what you may want to add on top of existing Solana programs, the n
 :mag: *Got something you want to see here? Add it to the list. Or better yet, write one & create a PR!*
 
 ### [ ] Basics
+
    - [x] Hello Solana
    - [x] Checking Accounts
    - [x] Create an Account
@@ -52,34 +53,25 @@ Regardless of what you may want to add on top of existing Solana programs, the n
    - [x] Transfer SOL
    - [ ] Stake SOL with a Validator
    - [x] Cross-program Invocation
-   
-### [ ] NFTs
-
-
-- [ ] Create an NFT
-- [ ] NFT Metadata
-- [ ] Master Edition NFT
-- [ ] Other Edition NFT
-- [ ] NFT Collections
-- [ ] NFT Royalties & Features
-- [ ] NFT Utilities
 
 ### [ ] Tokens
 
+   - [ ] Create an SPL Token
+   - [ ] Token Metadata
+   - [ ] Minting Tokens
+   - [ ] Mint Authority
+   - [ ] Transferring Tokens
+   - [ ] Selling Tokens
+   - [ ] Controlling Token Supply
+   - [ ] Disabling Token Minting
+   - [ ] Freezing Token Accounts
 
-- [ ] Create an SPL Token
-- [ ] Token Metadata
-- [ ] Minting Tokens
+### [ ] NFTs
 
-- [ ] Selling Tokens
-- [ ] Controlling Token Supply
-- [ ] Disabling Token Minting
-- [ ] Freezing Token Accounts
-- [ ] Mint Authority
-- [ ] Transferring Tokens
-- [ ] Mint Authority
-- [ ] Transferring Tokens
-
-
-
-
+   - [ ] Create an NFT
+   - [ ] NFT Metadata
+   - [ ] Master Edition NFT
+   - [ ] Other Edition NFT
+   - [ ] NFT Collections
+   - [ ] NFT Royalties & Features
+   - [ ] NFT Utilities
